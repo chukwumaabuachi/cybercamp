@@ -1,0 +1,17 @@
+body {
+    background-color: springgreen
+}
+        
+h1 {
+    color: orangered;
+    text-align:center;
+}
+p {
+font-family:arial;
+
+font-size:20px
+}
+
+a{
+     color: gold
+}
